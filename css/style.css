@@ -1,0 +1,54 @@
+body{
+	padding:0;
+	margin:0;
+	background:#ccc;
+}
+
+#menu{
+	width:990px;
+	margin:0px auto;
+	text-align:center;
+	border-bottom: 1px solid #ccc;
+}
+
+#menu a{
+	text-decoration: none;
+	display: inline-block;
+	color:#666;
+	padding: 14px;
+	
+}
+
+#menu a:hover{
+	color:#000;
+	background-color:#eee;
+}
+
+#menu{
+	color:#000;
+}
+
+#error{
+	width:1000px;
+	margin:0px auto;
+
+}
+
+#wrapper{
+	width:1000px;
+	background-color:#fff;
+	margin:0 auto;
+	min-height:400px;
+	margin-top:40px;
+	border:1px solid #999;
+	border-bottom:1px solid #999;
+	border-radius: 5px;
+	padding-bottom: 20px;
+}
+
+#formDiv{
+	width:300px;
+	margin:0px auto;
+	margin-top:20px;
+}
+
